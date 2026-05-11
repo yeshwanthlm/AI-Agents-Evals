@@ -10,6 +10,8 @@ Unlike traditional software testing that checks if code works correctly, AI agen
 - **Coherence**: Is the output well-structured and logical?
 - **Safety**: Does the agent avoid harmful or destructive actions?
 
+<img width="1680" height="1289" alt="image" src="https://github.com/user-attachments/assets/06932536-314f-4d93-80c2-801c65dea6d9" />
+
 ## Why This Matters
 
 AI agents can autonomously make decisions and take actions. Without proper evaluation, they can cause serious damage.
